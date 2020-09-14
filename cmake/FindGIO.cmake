@@ -5,7 +5,7 @@
 #  GIO_INCLUDE_DIR - the GIO include directory
 #  GIO_LIBRARIES - GIO library
 #
-# Copyright (c) 2010 Dario Freddi <drf@kde.org>
+# SPDX-FileCopyrightText: 2010 Dario Freddi <drf@kde.org>
 #
 # Redistribution and use is allowed according to the terms of the BSD license.
 # For details see the accompanying COPYING-CMAKE-SCRIPTS file.

@@ -6,9 +6,7 @@
 #  GIO_LIBRARIES - GIO library
 #
 # SPDX-FileCopyrightText: 2010 Dario Freddi <drf@kde.org>
-#
-# Redistribution and use is allowed according to the terms of the BSD license.
-# For details see the accompanying COPYING-CMAKE-SCRIPTS file.
+# SPDX-License-Identifier: BSD-3-Clause
 
 if(GIO_INCLUDE_DIR AND GIO_LIBRARIES)
     # Already in cache, be silent
